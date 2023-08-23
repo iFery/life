@@ -13,16 +13,16 @@ integrations:
   #wakatime:
   #  frequency: "daily"
   #  all: true
-  google-fit:
-    frequency: "daily"
-    all: true
-  oura-ring:
-    frequency: "daily"
-    all: true
+   #  google-fit:
+     #  frequency: "daily"
+      # all: true
+    # oura-ring:
+      # frequency: "daily"
+      # all: true
  # twitter:
  #   frequency: "daily"
  #   all: true
-  # clockify:
+ # clockify:
    spotify:
     frequency: "daily"
     all: true
